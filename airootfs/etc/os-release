@@ -1,0 +1,6 @@
+NAME="Lembret Linux"
+PRETTY_NAME="Lembret Linux"
+ID=lembret
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+LOGO=lembret-logo
